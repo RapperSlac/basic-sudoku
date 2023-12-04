@@ -1,0 +1,33 @@
+/* Add your styles here */
+
+div#kutukapsa{
+  width:420px;
+  height:420px;
+  background-color:gray;
+  border:2px double orangered;
+  margin:5px;
+  display: flex;
+  direction: ltr;
+  flex-wrap: wrap;
+}
+div#kutukapsaiç1{
+  width:125px;
+  height:125px;
+  border:2px double #ff8819;
+  background-color: #ff8819;
+  margin: 5px;
+  display: flex;
+  direction: ltr;
+  flex-wrap: wrap;
+}
+div.kutu{
+  width:35px;
+  height:35px;
+  background-color:#ffdab7;
+  border:2px double purple;
+  margin:2px;
+  text-align: center;
+  margin: auto;
+  line-height: 35px; 
+ 
+}
